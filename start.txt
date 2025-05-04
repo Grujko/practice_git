@@ -1,2 +1,6 @@
 "Quick start text demo" 
+<<<<<<< Updated upstream
 Grujko
+=======
+Promena zbog stashinga
+>>>>>>> Stashed changes
